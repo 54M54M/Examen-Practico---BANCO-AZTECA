@@ -8,7 +8,7 @@ Simulación fullstack de un cajero automático con dispensación inteligente de 
 
 ```
 cajero-azteca/
-├── backend/            # Spring Boot 3.2.11 (Java 21)
+├── backend/            # Spring Boot 3.5.11 (Java 21)
 └── database/           # Oracle SQL
 └── frontend/           # Angular 18.2.21
 ```
